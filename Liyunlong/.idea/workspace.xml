@@ -180,7 +180,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="175" y="335" width="1312" height="988" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49916804" visible="true" weight="0.22677165" />
