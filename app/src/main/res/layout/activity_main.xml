@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bt1"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt1"
+                android:text="干什么干什么，眼睛瞪的跟牛蛋似的"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt2"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt2"
+                android:text="开炮"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt3"
+                android:text="龙哥骂人"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt4"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt4"
+                android:text="没有我李云龙的命令，看你们谁敢动一个手指头"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt5"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt5"
+                android:text="哪个狗日的打我小报告"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt6"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt6"
+                android:text="你敢"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt7"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt7"
+                android:text="你开炮啊（女）"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt8"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt8"
+                android:text="你怕什么啊你"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt9"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt9"
+                android:text="你他娘打歪了"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt10"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt10"
+                android:text="你他娘的还真是个天才"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt11"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt11"
+                android:text="你他娘的意大利炮呢"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt12"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt12"
+                android:text="你小子说什么呢"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt13"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt13"
+                android:text="枪是吧好枪"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt14"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt14"
+                android:text="什么他娘的精锐"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt15"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt15"
+                android:text="死也要死在冲锋的路上"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt16"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt16"
+                android:text="我李云龙别的能耐没有，就他娘的会抢"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt17"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt17"
+                android:text="想办法干他一炮"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt18"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt18"
+                android:text="谢谢你啊"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt19"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt19"
+                android:text="这就对了"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/bt20"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/colorAccent"
+                android:onClick="btt20"
+                android:text="直接瞄准了轰他娘的"
+                android:textColor="@android:color/background_light"
+                android:textColorLink="@color/colorAccent" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
